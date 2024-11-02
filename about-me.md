@@ -2,8 +2,8 @@
 
 Here's some information about me. 
 My interests include: 
-*tech
-*nature
-*video games
-*comedy 
-*history
+* tech
+* nature
+* video games
+* comedy 
+* history
